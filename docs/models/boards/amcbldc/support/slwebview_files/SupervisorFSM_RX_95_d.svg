@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" display="inline" height="224.400000px" preserveAspectRatio="xMinYMin meet" viewBox="409.83 21.49 1138.08 224.40" width="1138.082300px" x="0" y="0" zoomAndPan="disable">
+  <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel">
+    <!--RAWSTRING-->
+    <g id="background" pointer-events="none">
+      <g clip-path="none" fill="#fff5e1" fill-opacity="1" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,0,0)">
+        <path d="M410.829,22.4866 L1546.91,22.4866 L1546.91,244.887 L410.829,244.887 L410.829,22.4866 z" fill-rule="evenodd" vector-effect="none"/>
+      </g>
+      <!--RAWSTRING-->
+    </g>
+    <!--RAWSTRING-->
+    <g id="SupervisorFSM_RX:95">
+      <!--RAWSTRING-->
+      <g id="SupervisorFSM_RX:95:512">
+        <g clip-path="none" fill="none" opacity="0.4" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1216.11,22.5586)">
+          <image height="232" preserveAspectRatio="none" width="342" x="0" xlink:href="data:image/png;base64,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" y="0"/>
+        </g>
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad1" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="url(#grad1)" opacity="1" stroke="#000000" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="2" transform="matrix(1,0,0,1,1218.11,24.5586)">
+          <path d="M0,15 C0,6.71573 6.71573,0 15,0 L313.797,0 C322.081,0 328.797,6.71573 328.797,15 L328.797,203.256 C328.797,211.54 322.081,218.256 313.797,218.256 L15,218.256 C6.71573,218.256 0,211.54 0,203.256 L0,15 z" fill-rule="evenodd" vector-effect="none"/>
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="dragRegion">
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+        <g pointer-events="none">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad3" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="0" stop-color="#fff5e1"/>
+              <stop offset="1" stop-opacity="1" stop-color="#b39456"/>
+            </linearGradient>
+          </defs>
+          <g clip-path="none" fill="url(#grad3)" opacity="0.3" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,1218.11,24.5586)">
+            <path d="M327.797,17.3935 L327.797,202.256 C327.797,210.54 321.081,217.256 312.797,217.256 L16,217.256 C7.71573,217.256 1,210.54 1,202.256 L1,17.3935" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="frame">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad4" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+              <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+            </linearGradient>
+          </defs>
+          <g clip-path="none" fill="none" opacity="1" stroke="#000000" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="2" transform="matrix(1,0,0,1,1218.11,24.5586)">
+            <path d="M0,15 C0,6.71573 6.71573,0 15,0 L313.797,0 C322.081,0 328.797,6.71573 328.797,15 L328.797,203.256 C328.797,211.54 322.081,218.256 313.797,218.256 L15,218.256 C6.71573,218.256 0,211.54 0,203.256 L0,15 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad5" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="none" opacity="1" stroke="#666666" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="0.4" stroke-width="1" transform="matrix(1,0,0,1,1218.11,24.5586)">
+          <polyline fill="none" points="0,17.3935 328.797,17.3935" vector-effect="none"/>
+        </g>
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad6" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+          </linearGradient>
+          <clipPath id="clip2">
+            <path d="M-813.679,-5.4655 L330.403,-5.4655 L330.403,224.935 L-813.679,224.935 L-813.679,-5.4655 z"/>
+          </clipPath>
+        </defs>
+        <g clip-path="url(#clip2)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,1222.51,25.9521)">
+          <path d="M1,1 L173,1 L173,15 L1,15 L1,1 z" fill-rule="evenodd" vector-effect="none"/>
+        </g>
+        <defs>
+          <clipPath id="clip3">
+            <path d="M-813.679,-5.4655 L330.403,-5.4655 L330.403,224.935 L-813.679,224.935 L-813.679,-5.4655 z"/>
+          </clipPath>
+        </defs>
+        <g clip-path="url(#clip3)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1222.51,25.9521)">
+          <text fill="#000000" fill-opacity="1" font-family="Arial" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="171.281" x="1" xml:space="preserve" y="12">CAN_MESSAGES_FOR_LOOP</text>
+        </g>
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad8" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="url(#grad8)" opacity="0.4" stroke="#000000" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="2" transform="matrix(1,0,0,1,1526.52,22.9521)">
+          <image height="34" preserveAspectRatio="none" width="24" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAiCAYAAABFlhkzAAAACXBIWXMAABYlAAAWJQFJUiTwAAABkklEQVRIie2Vv0oDQRCHv1n8A0kk0RCjoiT4Bmrhg6jPYWFhaeELaGGtvbZ2voKN+AAeBFGvSJQkGoUdi9zhBXcvOREEyQfb7Oz8frNzcyyM+Wtk2AHtBrvABqqVrywJgWvJ1Y5/bKDdYBvLDoYKlmWE2a8gTQwNLCGGc8nVLnw6E6niwiZKKSojlyhrEmUeoYUFwGtgnLuxOJSAYrQmEyveK2GoaDvYz2ZgqCTE01FWgXVf2NmiDBQTBTlx38DPc9YK3DewhAgtR2TqdwxEb1GqiJSBGfzfowt0UF58Bs4WSb5+iHCFEKaIA3wATeAx0w20ExwAS76kwWp4wpqTkQ20HRyhrCGU0ZEskMLKzUgG2r3bwrKIUKPfmph4eob/F2kGQH+m9VvfM4+n38BN5spjBqdIecuQ+wy0sIQjG0i+fonyCvSA95S89+hMCNpIM3C16AmhGU3QtCevF525lUJ9L5uBkVOsVZAqsADMMfgwNYF7VB8x5ixNHIY8mdoOjkCrIMlWPkihtjtMeMyYMf+JT/04bufxMDSiAAAAAElFTkSuQmCC" y="0"/>
+        </g>
+        <defs>
+          <clipPath id="clip4">
+            <path d="M-1120.69,-5.4655 L23.3935,-5.4655 L23.3935,224.935 L-1120.69,224.935 L-1120.69,-5.4655 z"/>
+          </clipPath>
+        </defs>
+        <g clip-path="url(#clip4)" fill="none" opacity="0.4" stroke="#aaa08c" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1529.52,25.9521)">
+          <text fill="#aaa08c" fill-opacity="1" font-family="Arial" font-size="18" font-style="italic" font-weight="700" stroke="none" textLength="10" x="2" xml:space="preserve" y="18">3</text>
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g id="SupervisorFSM_RX:95:531">
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad9" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="none" opacity="0.4" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,807.724,20.4866)">
+          <image height="236" preserveAspectRatio="none" width="341" x="0" xlink:href="data:image/png;base64,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" y="0"/>
+        </g>
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad10" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="url(#grad10)" opacity="1" stroke="#000000" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="2" transform="matrix(1,0,0,1,809.724,22.4866)">
+          <path d="M0,15 C0,6.71573 6.71573,0 15,0 L312.335,0 C320.619,0 327.335,6.71573 327.335,15 L327.335,207.4 C327.335,215.684 320.619,222.4 312.335,222.4 L15,222.4 C6.71573,222.4 0,215.684 0,207.4 L0,15 z" fill-rule="evenodd" vector-effect="none"/>
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="dragRegion">
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+        <g pointer-events="none">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad12" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="0" stop-color="#fff5e1"/>
+              <stop offset="1" stop-opacity="1" stop-color="#b39456"/>
+            </linearGradient>
+          </defs>
+          <g clip-path="none" fill="url(#grad12)" opacity="0.3" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,809.724,22.4866)">
+            <path d="M326.335,17.3935 L326.335,206.4 C326.335,214.684 319.619,221.4 311.335,221.4 L16,221.4 C7.71573,221.4 1,214.684 1,206.4 L1,17.3935" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="frame">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad13" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+              <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+            </linearGradient>
+          </defs>
+          <g clip-path="none" fill="none" opacity="1" stroke="#000000" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="2" transform="matrix(1,0,0,1,809.724,22.4866)">
+            <path d="M0,15 C0,6.71573 6.71573,0 15,0 L312.335,0 C320.619,0 327.335,6.71573 327.335,15 L327.335,207.4 C327.335,215.684 320.619,222.4 312.335,222.4 L15,222.4 C6.71573,222.4 0,215.684 0,207.4 L0,15 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad14" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="none" opacity="1" stroke="#666666" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="0.4" stroke-width="1" transform="matrix(1,0,0,1,809.724,22.4866)">
+          <polyline fill="none" points="0,17.3935 327.335,17.3935" vector-effect="none"/>
+        </g>
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad16" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="url(#grad16)" opacity="0.4" stroke="#000000" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="2" transform="matrix(1,0,0,1,1116.67,20.8801)">
+          <image height="34" preserveAspectRatio="none" width="24" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAiCAYAAABFlhkzAAAACXBIWXMAABYlAAAWJQFJUiTwAAABXUlEQVRIie2UMU7DQBBF3yzQJESEwqlQAlRwABSJC3ABchjEEdJwDRQaSo5AQ01BYytULnCk4AZlhwKcxMK7dgIIIfl33p39b7Sz31DrryVlBToNLzAcoxosTkkMPEijd7U2QNPwHMsAQ4BlD2F3sckLhjGWGMNIGr0bl8+m11zoo7Q/22gstbWF0kFIsKCv0Zs0u7eVAXNzaAM7BRWLNeEEtTNgBYAhQJ3my2oBFpHAVWBKDMpkAIOw8VOAyTodVFW6qjm4hxwjJAU7ZTOpCDCMsGTDPsT9miZAgiV2AfxX5DfP9Izo02qA8hxA1r0ylub+ZWWAptEQ4aCi+T2Gkcu8EIDVLtDxnMmeahuhj2XgA+SGrNPoDKNlKc6vG5wp/tjOfemRr3gdffdX8asAC1iUma8oHzQrj6CnjhQXARJUnSH7ApDt7p2mYWueYp+UGaoxYq4rNFOrVq1/rXciCWn5VEfM8wAAAABJRU5ErkJggg==" y="0"/>
+        </g>
+        <defs>
+          <clipPath id="clip5">
+            <path d="M-710.837,-3.3935 L433.246,-3.3935 L433.246,227.007 L-710.837,227.007 L-710.837,-3.3935 z"/>
+          </clipPath>
+        </defs>
+        <g clip-path="url(#clip5)" fill="none" opacity="0.4" stroke="#aaa08c" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1119.67,23.8801)">
+          <text fill="#aaa08c" fill-opacity="1" font-family="Arial" font-size="18" font-style="italic" font-weight="700" stroke="none" textLength="10" x="2" xml:space="preserve" y="18">2</text>
+        </g>
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad17" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+          </linearGradient>
+          <clipPath id="clip7">
+            <path d="M-405.289,-3.3935 L738.794,-3.3935 L738.794,227.007 L-405.289,227.007 L-405.289,-3.3935 z"/>
+          </clipPath>
+        </defs>
+        <g clip-path="url(#clip7)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,814.118,23.8801)">
+          <path d="M1,1 L102,1 L102,15 L1,15 L1,1 z" fill-rule="evenodd" vector-effect="none"/>
+        </g>
+        <defs>
+          <clipPath id="clip8">
+            <path d="M-405.289,-3.3935 L738.794,-3.3935 L738.794,227.007 L-405.289,227.007 L-405.289,-3.3935 z"/>
+          </clipPath>
+        </defs>
+        <g clip-path="url(#clip8)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,814.118,23.8801)">
+          <text fill="#000000" fill-opacity="1" font-family="Arial" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="100.406" x="1" xml:space="preserve" y="12">FAULT_HANDLER</text>
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+      <g id="SupervisorFSM_RX:95:547">
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad18" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="none" opacity="0.4" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,408.829,20.4866)">
+          <image height="236" preserveAspectRatio="none" width="347" x="0" xlink:href="data:image/png;base64,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" y="0"/>
+        </g>
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad19" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="url(#grad19)" opacity="1" stroke="#000000" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="2" transform="matrix(1,0,0,1,410.829,22.4866)">
+          <path d="M0,15 C0,6.71573 6.71573,0 15,0 L319,0 C327.284,0 334,6.71573 334,15 L334,207.4 C334,215.684 327.284,222.4 319,222.4 L15,222.4 C6.71573,222.4 0,215.684 0,207.4 L0,15 z" fill-rule="evenodd" vector-effect="none"/>
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="dragRegion">
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+        <g pointer-events="none">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad21" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="0" stop-color="#fff5e1"/>
+              <stop offset="1" stop-opacity="1" stop-color="#b39456"/>
+            </linearGradient>
+          </defs>
+          <g clip-path="none" fill="url(#grad21)" opacity="0.3" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,410.829,22.4866)">
+            <path d="M333,17.3935 L333,206.4 C333,214.684 326.284,221.4 318,221.4 L16,221.4 C7.71573,221.4 1,214.684 1,206.4 L1,17.3935" fill-rule="nonzero" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <!--RAWSTRING-->
+        <g data-tags="frame">
+          <defs>
+            <linearGradient gradientUnits="objectBoundingBox" id="grad22" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+              <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+            </linearGradient>
+          </defs>
+          <g clip-path="none" fill="none" opacity="1" stroke="#000000" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="2" transform="matrix(1,0,0,1,410.829,22.4866)">
+            <path d="M0,15 C0,6.71573 6.71573,0 15,0 L319,0 C327.284,0 334,6.71573 334,15 L334,207.4 C334,215.684 327.284,222.4 319,222.4 L15,222.4 C6.71573,222.4 0,215.684 0,207.4 L0,15 z" fill-rule="evenodd" vector-effect="none"/>
+          </g>
+          <!--RAWSTRING-->
+        </g>
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad23" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="none" opacity="1" stroke="#666666" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="0.4" stroke-width="1" transform="matrix(1,0,0,1,410.829,22.4866)">
+          <polyline fill="none" points="0,17.3935 334,17.3935" vector-effect="none"/>
+        </g>
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad25" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+          </linearGradient>
+        </defs>
+        <g clip-path="none" fill="url(#grad25)" opacity="0.4" stroke="#000000" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="2" transform="matrix(1,0,0,1,725.435,20.8801)">
+          <image height="34" preserveAspectRatio="none" width="23" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAiCAYAAAC0nUK+AAAACXBIWXMAABYlAAAWJQFJUiTwAAABaUlEQVRIie2Vv0rDUBSHv5O6GKq2SBEdbEWE4urgpA/grPgQCg6OIjj7FA5uujv6Ig5VQaxBGoX+Ee09Dok1NkmT1j845NvuzS8fJ+eeJJDx10iakLauNzFsYVHqbRocLM7ELp/H3TeWWiysohQCZbkYAIaXa7u2gLH2UWYRXQEKwNSXUPBJ0sq1WduhK+uIqYIUgcmQOAUhubZqu6i1gegySAHIAflhxZFyjKx54og2fPIEuBicQXIrYqeUIP7gDtGrQYHEaYlF6IhdORgUCVf+g0T0HAfB7dsdelKi5cgFql7vlSoEXhyPZ8BFeUySh9oi+fkTyZe3/aUNjPdFFGiA1EeoPAVCA16Pk2KRB6qd26VEv714k5SJrryre0Ax6eYkYkZRZ3x5/ye5A7RRmt+Qx/KCd5gPvyEH4R5jTtNEY6ZF6qANf6GBCy4GRyYql6PLu7kjrLdDhDmE6d6+/2tLI87IyPjvvANSKV7PuI8TNAAAAABJRU5ErkJggg==" y="0"/>
+        </g>
+        <defs>
+          <clipPath id="clip9">
+            <path d="M-319.606,-3.3935 L824.476,-3.3935 L824.476,227.007 L-319.606,227.007 L-319.606,-3.3935 z"/>
+          </clipPath>
+        </defs>
+        <g clip-path="url(#clip9)" fill="none" opacity="0.4" stroke="#aaa08c" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,728.435,23.8801)">
+          <text fill="#aaa08c" fill-opacity="1" font-family="Arial" font-size="18" font-style="italic" font-weight="700" stroke="none" textLength="10" x="1" xml:space="preserve" y="18">1</text>
+        </g>
+        <defs>
+          <linearGradient gradientUnits="objectBoundingBox" id="grad26" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-opacity="1" stop-color="#fff8e9"/>
+            <stop offset="1" stop-opacity="1" stop-color="#f5e9d1"/>
+          </linearGradient>
+          <clipPath id="clip11">
+            <path d="M-6.3935,-3.3935 L1137.69,-3.3935 L1137.69,227.007 L-6.3935,227.007 L-6.3935,-3.3935 z"/>
+          </clipPath>
+        </defs>
+        <g clip-path="url(#clip11)" fill="none" opacity="1" stroke="none" stroke-opacity="0" transform="matrix(1,0,0,1,415.222,23.8801)">
+          <path d="M1,1 L102,1 L102,15 L1,15 L1,1 z" fill-rule="evenodd" vector-effect="none"/>
+        </g>
+        <defs>
+          <clipPath id="clip12">
+            <path d="M-6.3935,-3.3935 L1137.69,-3.3935 L1137.69,227.007 L-6.3935,227.007 L-6.3935,-3.3935 z"/>
+          </clipPath>
+        </defs>
+        <g clip-path="url(#clip12)" fill="none" opacity="1" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,415.222,23.8801)">
+          <text fill="#000000" fill-opacity="1" font-family="Arial" font-size="12" font-style="normal" font-weight="400" stroke="none" textLength="100.844" x="1" xml:space="preserve" y="12">STATE_HANDLER</text>
+        </g>
+        <!--RAWSTRING-->
+      </g>
+      <!--RAWSTRING-->
+    </g>
+  </g>
+  <!--generated on windows @ 2022-10-16 11:40:20 W. Europe Daylight Time-->
+</svg>
